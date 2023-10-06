@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tennzzin
+- 👋 Hi, I’m Tenzin Chonyi, @tennzzin
 - 👀 I’m interested in computer science/programming
 - 🌱 I’m currently learning data structures & algos
 - 💞️ I’m looking to collaborate on any coding projects 
