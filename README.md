@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tennzzin
 - 👀 I’m interested in computer science/programming
-- 🌱 I’m currently learning data structures & algos
+- 🌱 I’m currently learning React
 - 🙌 I’m looking to collaborate on any coding projects 
 - 📫 How to reach me email: tenzinchonyi03@gmail.com  
 
