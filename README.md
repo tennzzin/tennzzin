@@ -51,5 +51,6 @@ Hey, I’m Tenzin — I enjoy building scalable code, exploring new technologies
 
 ## 🌐 Socials  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tenzin-chonyi)  
-[![Email](https://img.shields.io/badge/Email-Red?logo=gmail&style=for-the-badge)](mailto:chony003@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tenzin-chonyi)
+[![Email](https://img.shields.io/badge/Email-Red?logo=gmail&style=for-the-badge)](mailto:chony003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/tennzzin)
