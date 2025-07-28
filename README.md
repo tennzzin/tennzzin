@@ -3,6 +3,8 @@
 Hey, I’m Tenzin — I enjoy building scalable code, exploring new technologies, and turning ideas into real projects.
 
 ---
+![snake gif](https://github.com/tennzzin/tennzzin/blob/output/github-snake-dark.svg) 
+---
 
 ## 💻 Skills  
 
