@@ -45,13 +45,3 @@ Hey, I’m Tenzin — I enjoy building scalable code, exploring new technologies
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tennzzin&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tennzzin&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-
----
-
-<!-- Social connections -->
-<div align="center">
-
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/tenzin-chonyi) [![Email](https://img.shields.io/badge/Email-Red?logo=gmail&style=for-the-badge)](mailto:chony003@gmail.com)
-
-</div>
