@@ -10,6 +10,10 @@ Hey, I’m Tenzin — I enjoy building scalable code, exploring new technologies
 
 ---
 
+<div> Check out my <a href="https://tenzinchonyi.com">portfolio</a>!</div>
+
+---
+
 ## 💻 Skills  
 
 </div>
