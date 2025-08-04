@@ -3,14 +3,11 @@
 # Hello 👋 I'm Tenzin Chonyi  
 
 Hey, I’m Tenzin — I enjoy building scalable code, exploring new technologies, and turning ideas into real projects.  
+<div> Check out my <a href="https://tenzinchonyi.com">portfolio!</a></div>
 
 ---
 
 ![snake gif](https://github.com/tennzzin/tennzzin/blob/output/github-snake-dark.svg) 
-
----
-
-<div> Check out my <a href="https://tenzinchonyi.com">portfolio</a>!</div>
 
 ---
 
